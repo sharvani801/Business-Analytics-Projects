@@ -391,6 +391,9 @@ Overall, the project demonstrates how **Power BI and Power Query** can be used t
 **Bijjam Sharvani**
 
 **Course:** Business Analytics
+
 **Tool:** Microsoft Power BI
+
 **Dataset:** Superstore
+
 **Project:** Superstore Sales Performance Dashboard
